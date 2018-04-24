@@ -1,2 +1,3 @@
 This is sample file.
 We need to know how to use Git hub.
+I added a line to local repository.
